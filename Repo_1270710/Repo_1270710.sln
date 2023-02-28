@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repo_Method", "Repo_Method\Repo_Method.csproj", "{677A2D60-0EBD-473E-86D9-2B6E93645A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repo_Factory", "Repo_Factory\Repo_Factory.csproj", "{B68DA51B-0073-426D-9013-F32000DF257F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{677A2D60-0EBD-473E-86D9-2B6E93645A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677A2D60-0EBD-473E-86D9-2B6E93645A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677A2D60-0EBD-473E-86D9-2B6E93645A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677A2D60-0EBD-473E-86D9-2B6E93645A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B68DA51B-0073-426D-9013-F32000DF257F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68DA51B-0073-426D-9013-F32000DF257F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68DA51B-0073-426D-9013-F32000DF257F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68DA51B-0073-426D-9013-F32000DF257F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A7CF478-A275-44EA-8956-2CB3987D889A}
+	EndGlobalSection
+EndGlobal
